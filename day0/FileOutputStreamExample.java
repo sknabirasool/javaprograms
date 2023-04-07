@@ -4,10 +4,13 @@ public class FileOutputStreamExample {
            try{    
              FileOutputStream fout=new FileOutputStream("out.txt");    
              String s="Welcome to Cubicway technologies.";    
-             byte b[]=s.getBytes();//converting string into byte array    
+             byte b[]=s.getBytes();//converting string into byte array   
              fout.write(b);    
              fout.close();    
-             System.out.println("success...");    
-            }catch(Exception e){System.out.println(e);}    
+             System.out.println("success... written message");    
+            }catch(Exception e)
+            {
+               System.out.println(e);
+             }    
       }    
 }  

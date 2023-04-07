@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BufferReaderDemo",
+            "request": "launch",
+            "mainClass": "BufferReaderDemo",
+            "projectName": "day0_46ada93c"
+        },
+        {
+            "type": "java",
+            "name": "WriterDemo",
+            "request": "launch",
+            "mainClass": "WriterDemo",
+            "projectName": "day0_46ada93c"
+        },
+        {
+            "type": "java",
+            "name": "FileRead",
+            "request": "launch",
+            "mainClass": "FileRead",
+            "projectName": "day0_46ada93c"
+        },
+        {
+            "type": "java",
+            "name": "BreakContinueExample",
+            "request": "launch",
+            "mainClass": "BreakContinueExample",
+            "projectName": "day0_46ada93c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BufferDemo",
+            "request": "launch",
+            "mainClass": "BufferDemo",
+            "projectName": "day0_46ada93c"
+        },
+        {
+            "type": "java",
+            "name": "BufferedReaderMain",
+            "request": "launch",
+            "mainClass": "BufferedReaderMain",
+            "projectName": "day0_46ada93c"
+        },
+        {
+            "type": "java",
+            "name": "DataStreamExample",
+            "request": "launch",
+            "mainClass": "DataStreamExample",
+            "projectName": "day0_46ada93c"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "day0_46ada93c"
+        },
+        {
+            "type": "java",
+            "name": "Employee",
+            "request": "launch",
+            "mainClass": "Employee",
+            "projectName": "day0_46ada93c"
+        },
+        {
+            "type": "java",
+            "name": "FileOutputStreamExample",
+            "request": "launch",
+            "mainClass": "FileOutputStreamExample",
+            "projectName": "day0_46ada93c"
+        },
+        {
+            "type": "java",
+            "name": "ScannerDemoForEmployee",
+            "request": "launch",
+            "mainClass": "ScannerDemoForEmployee",
+            "projectName": "day0_46ada93c"
+        },
+        {
+            "type": "java",
+            "name": "Test1",
+            "request": "launch",
+            "mainClass": "Test1",
+            "projectName": "day0_46ada93c"
+        },
+        {
+            "type": "java",
+            "name": "WriterExample",
+            "request": "launch",
+            "mainClass": "WriterExample",
+            "projectName": "day0_46ada93c"
+        }
+    ]
+}
