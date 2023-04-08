@@ -11,10 +11,13 @@ public class BufferReaderDemo {
             String name=br.readLine();
             System.out.println("please enter Employee Father Name");
             String father_name=br.readLine();
+            System.out.println("Enter employee id");
+            int empid= Integer.parseInt(br.readLine()); 
             System.out.println("<----------------------->");
             System.out.println("Employee Details");
             System.out.println(name);
             System.out.println(father_name);
+            System.out.println(empid);
         }
         catch(Exception e)
         {

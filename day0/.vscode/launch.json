@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ATMDEMO",
+            "request": "launch",
+            "mainClass": "ATMDEMO",
+            "projectName": "day0_46ada93c"
+        },
+        {
+            "type": "java",
+            "name": "AccountDetailsPrint",
+            "request": "launch",
+            "mainClass": "AccountDetailsPrint",
+            "projectName": "day0_46ada93c"
+        },
+        {
+            "type": "java",
+            "name": "ATM_Transaction",
+            "request": "launch",
+            "mainClass": "ATM_Transaction",
+            "projectName": "day0_46ada93c"
+        },
+        {
+            "type": "java",
             "name": "BufferReaderDemo",
             "request": "launch",
             "mainClass": "BufferReaderDemo",
