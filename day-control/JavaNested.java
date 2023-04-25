@@ -3,7 +3,7 @@ public class JavaNested {
     public static void main(String[] args) {    
         //Creating two variables for age and weight  
         int age=25;  
-        int weight=40;    
+        int weight=60;    
         //applying condition on age and weight  
         if(age>=18)
         {    
