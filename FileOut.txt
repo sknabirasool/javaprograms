@@ -1,0 +1,1 @@
+Java FileOutputStream is an output stream used for writing data to a file wilicw
