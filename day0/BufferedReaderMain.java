@@ -22,7 +22,7 @@ public class BufferedReaderMain
         }
         catch(IOException e)
         {
-            System.out.println(e.getMessage());//err
+            System.out.println(e.getMessage());
         }
     }
 }
