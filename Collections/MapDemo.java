@@ -10,7 +10,7 @@ public class MapDemo{
    map.put(2,"Apple");   
    map.put(4,"Grapes");   
    map.put(1,"Ana"); 
-   map.put(1,"Mango"); 
+ 
        
    System.out.println("Iterating Hashmap...");  
    for(Map.Entry m : map.entrySet()){    
